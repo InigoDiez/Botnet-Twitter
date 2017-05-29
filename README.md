@@ -21,3 +21,4 @@ $ php Seguridad.php
 
 El archivo servidor.sh es una guía en la cual se va eligiendo la acción que se quiere que realice la víctima y genera el tweet que hay que escribir para su correcto funcionamiento.
 En el ataque de fuerza bruta utiliza un diccionario de contraseñas subido a un servidor que puede no estar operativo se recomienda usar un diccionario propio.
+Es importante tener en cuenta que, para el correcto funcionamiento de la BOTNET, la víctima deberá tener actualizado el PHP a la última versión.
