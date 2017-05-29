@@ -6,6 +6,7 @@ Para el correcto funcionamiento del programa hay que copiar los siguientes archi
 de la máquina atacante:
 - servidor.sh
 - socket.php
+
 Una vez hecho esto ejecutamos el siguiente comando en la shell del atacante:
 $ sh servidor.sh
 
@@ -14,6 +15,7 @@ Para el correcto funcionamiento del programa hay que copiar los siguientes archi
 de la máquina víctima:
 - Seguridad.php
 - script.sh
+
 Una vez hecho esto ejecutamos el siguiente comando en la shell del víctima:
 $ php Seguridad.php
 
